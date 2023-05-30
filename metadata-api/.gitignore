@@ -1,0 +1,6 @@
+env/
+.idea/
+credentials/*
+.env
+*/output/shoe/*
+*/output/box/*
