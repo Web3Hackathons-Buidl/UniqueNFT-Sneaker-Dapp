@@ -1,4 +1,4 @@
-## SNEAKRCRED ERC721 contracts
+## SNEAKRCRED UniqueNFT Sneaker Dapp: Unleashing Customization in the World of Sneaker Collectibles
 
 ### About SNEAKRCRED.
 This project is a submission for Unique.Network bounty and Polkadot's grand prize.
