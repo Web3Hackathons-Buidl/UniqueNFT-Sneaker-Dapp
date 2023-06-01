@@ -14,7 +14,7 @@ Join us in this hackathon submission as we present our professional and groundbr
 
 For this hackathon, we have enhanced our tech stack by incorporating Polkadot into our existing project. Our improved tech stack now includes a mintNFT Collection Helpers Factory, Unique NFT Solidity Interfaces, Collection Manager Factory, Collection Bundles, and the unique.network SDK. By integrating Polkadot, we have leveraged its powerful features and capabilities to enhance the functionality and scalability of our project. The mintNFT Collection Helpers Factory enables seamless and efficient minting of NFTs, while the Unique NFT Solidity Interfaces provide standardized interfaces for interacting with NFT contracts. The Collection Manager Factory allows for the creation and management of collections, and the Collection Bundles feature facilitates the bundling and trading of NFTs. Additionally, the unique.network SDK offers a comprehensive set of tools and resources for developers, making it easier to build and integrate with our project. Through these improvements, we have strengthened our tech stack and harnessed the potential of Polkadot to take our project to new heights in terms of functionality, scalability, and developer experience.
 
-Answers: 
+#BUIDLtheFuture
 
 Potential Impact: The UniqueNFT Sneaker Dapp fills a significant gap in the universe of sneaker collectibles by offering a seamless and intuitive platform for customization. With its potential to be used frequently by a large and diverse audience, it empowers sneaker enthusiasts to express their individuality and creativity in a unique and personalized way.
 
